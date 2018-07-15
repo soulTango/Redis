@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7359125a-2655-473d-99d0-07657a6cb844" name="Default" comment="" />
+    <list default="true" id="7359125a-2655-473d-99d0-07657a6cb844" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/aa/Redis.java" afterPath="$PROJECT_DIR$/src/aa/Redis.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/aa/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="166">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1531150692834" expanded="true" signature="327:369" ph="select * fro... xt_zzjg_rybm" />
@@ -29,17 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/aa/Mysql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Redis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aa/Redis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="14" column="94" lean-forward="false" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -54,6 +47,9 @@
       <find>sql</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -64,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/aa/Mysql.java" />
         <option value="$PROJECT_DIR$/src/aa/Test.java" />
+        <option value="$PROJECT_DIR$/src/aa/Redis.java" />
       </list>
     </option>
   </component>
@@ -73,7 +70,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1440" />
     <option name="height" value="860" />
   </component>
@@ -92,8 +89,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,15 +115,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myproject/demo/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,25 +254,28 @@
       <updated>1531149992438</updated>
       <workItem from="1531150005310" duration="1761000" />
       <workItem from="1531227973309" duration="169000" />
+      <workItem from="1531573177887" duration="1296000" />
+      <workItem from="1531575061925" duration="2399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1930000" />
+    <option name="totallyTimeSpent" value="5625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25496688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -285,7 +285,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -302,10 +302,98 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/aa/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1531150692834" expanded="true" signature="327:369" ph="select * fro... xt_zzjg_rybm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Redis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3887">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <marker date="1531575356745" expanded="true" signature="795:847" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="889:936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1010:1063" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1130:1192" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1257:1319" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1368:1414" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1457:1503" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1552:1606" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1661:1715" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1781:1833" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1888:1936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2001:2053" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2136:2195" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2259:2315" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2384:2439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1531150692834" expanded="true" signature="327:369" ph="select * fro... xt_zzjg_rybm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Redis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1531575356745" expanded="true" signature="795:847" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="889:936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1010:1063" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1130:1192" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1257:1319" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1368:1414" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1457:1503" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1552:1606" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1661:1715" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1781:1833" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1888:1936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2001:2053" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2136:2195" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2259:2315" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2384:2439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/aa/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -329,22 +417,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aa/Redis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+          <folding>
+            <marker date="1531575356745" expanded="true" signature="795:847" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="889:936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1010:1063" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1130:1192" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1257:1319" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1368:1414" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1457:1503" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1552:1606" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1661:1715" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1781:1833" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1888:1936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2001:2053" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2136:2195" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2259:2315" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2384:2439" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aa/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="166">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1531150692834" expanded="true" signature="327:369" ph="select * fro... xt_zzjg_rybm" />
@@ -352,10 +448,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/aa/Redis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="77" column="49" lean-forward="true" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+          <folding>
+            <marker date="1531575356745" expanded="true" signature="795:847" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="889:936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1010:1063" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1130:1192" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1257:1319" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1368:1414" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1457:1503" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1552:1606" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1661:1715" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1781:1833" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="1888:1936" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2001:2053" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2136:2195" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2259:2315" ph="{...}" />
+            <marker date="1531575356745" expanded="true" signature="2384:2439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/aa/Mysql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <caret line="14" column="94" lean-forward="false" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="94" />
           <folding />
         </state>
       </provider>

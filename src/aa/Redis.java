@@ -3,13 +3,13 @@ package aa;
 import java.util.*;
 
 import redis.clients.jedis.Jedis;
+import redis.clients.jedis.JedisShardInfo;
 
 //extends Jedis
-public class Redis  {
+public class Redis {
 
 
-
-	public Jedis redis;
+    public Jedis redis;
 
     {
 
